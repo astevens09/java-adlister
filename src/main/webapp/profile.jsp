@@ -11,6 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-
+<%@include file="partials/nav.jsp" %>
+<h1>Profile Page</h1>
 </body>
 </html>
